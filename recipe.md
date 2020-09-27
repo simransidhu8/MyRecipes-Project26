@@ -1,0 +1,5 @@
+"1. Take pizza dough and place it on your table"
+"2. Take pizza sauce and spread it around the pizza dough with a spoon"
+"3. Get your cheese and spread it equally around the pizza sauce"
+"4. Bake it in the oven, at 475 F, also known as 245 C, for 10-15 minutes"
+"5. Eat it up!"
